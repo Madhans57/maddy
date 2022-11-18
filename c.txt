@@ -1,0 +1,26 @@
+<!HTMLDOC html>
+<html>
+<head>
+<title>PYTHON-ORIGIN</title>
+</head>
+<BODY style="background-color:rgb(255, 255, 255)"><font face="Bernard MT Condensed" size="10">
+  <h3 style="color:black">Guido Van Rossum and the story of python </h3></font>
+  <HR>
+  <pre><p style="color:white">
+  <font face="Bernard MT Condensed" color="blue" size="5">
+            When he began implementing
+			Python, Guido van Rossum
+		    was also reading the pu
+			-blished scriptsfrom “Mo
+			nty Python's Flying Circus”,
+			<font face="Bernard MT Condensed" color="gold" size="5"> <img src ="python.jfif" height=200 width=200 ALT="COULDN'T LOAD IMAGE"height=200 width=200 >
+			a BBC comedy series from
+			the 1970s.Van Rossum thought
+			he needed a name that was short
+			unique, and slightly mysterious,
+			so he decided to call the language Python.</p></pre></font>
+			<font face="mysterious Condensed">
+	  <h3 style="color : rgb(110, 11, 110)">IS PYTHON GOOD FOR BEGINERS ?</H3></font>
+<b><A HREF="https://youtu.be/xvFZjo5PgG0">CLICK ME TO LEARN FREE PYTHON</A></b>
+</BODY>
+</html>
