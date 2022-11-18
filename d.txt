@@ -1,0 +1,13 @@
+<html>
+<head> <title> marvel cinematic universe </title> avengers
+<h1>  ironman </h1> <b1> he is the most fan favourite marvel charecter and mine's too sacrificed his life to save the universe <br> Love u 3000  </b1>
+<h2> captain america </h2> <b2> he is the leader of the avengers and a wiser man </b2>
+<h3> thor </h2> <b3> he is the strongest avenger <br> (point break) </b3>
+<h4> hulk </h4> <b4> he is the angriest one in comic books but a comedic jerk in mcu </b4>
+<h5> black widow </h5> <b5>initially she is a spy and then turned into an avenger and sadly died for the soul stone </b5>
+<h6> hawkeye </h6> <b6> his aim never misses </b6>
+</head> 
+<a href="www.avengers.com"> mcu <a/>
+<img src ="Avengers.jpeg">
+<p style ="color:blue;> i am red </p>
+</html>
